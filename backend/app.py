@@ -19,7 +19,7 @@ load_dotenv()
 app = Flask(__name__)
 CORS(app)
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///database.db'
+app.config['postgresql://plant_disease_db_jznn_user:akzd6fJ0TnGHI8fbObzqVTE7lxHNBChi@dpg-d8ilvebtqb8s73bajs90-a/plant_disease_db_jznn'] = 'sqlite:///database.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['JWT_SECRET_KEY'] = os.getenv('JWT_SECRET_KEY', 'super-secret-key')
 app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(days=1)
