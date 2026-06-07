@@ -1,0 +1,154 @@
+{
+  "Apple___Apple_scab": {
+    "description": "Fungal disease causing olive-green to brown spots on leaves and fruit.",
+    "treatment": "Apply fungicides (myclobutanil, captan). Remove fallen leaves and infected fruit."
+  },
+  "Apple___Black_rot": {
+    "description": "Fungal disease causing purple spots on leaves and black rot on fruit.",
+    "treatment": "Prune infected branches. Apply fungicides (captan, sulfur)."
+  },
+  "Apple___Cedar_apple_rust": {
+    "description": "Fungal disease causing yellow-orange spots on leaves.",
+    "treatment": "Remove juniper bushes near apple trees. Apply fungicides."
+  },
+  "Apple___healthy": {
+    "description": "Healthy apple leaf – no disease detected.",
+    "treatment": "Maintain good cultural practices."
+  },
+  "Blueberry___healthy": {
+    "description": "Healthy blueberry leaf.",
+    "treatment": "No treatment needed."
+  },
+  "Cherry___healthy": {
+    "description": "Healthy cherry leaf.",
+    "treatment": "No treatment needed."
+  },
+  "Cherry___Powdery_mildew": {
+    "description": "White powdery growth on leaves.",
+    "treatment": "Apply sulfur or potassium bicarbonate fungicides."
+  },
+  "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+    "description": "Grayish lesions on leaves; reduces photosynthesis.",
+    "treatment": "Use resistant hybrids and rotate crops."
+  },
+  "Corn___Common_rust": {
+    "description": "Reddish-brown pustules on leaves.",
+    "treatment": "Plant resistant varieties. Apply fungicides if severe."
+  },
+  "Corn___healthy": {
+    "description": "Healthy corn leaf.",
+    "treatment": "No treatment needed."
+  },
+  "Corn___Northern_Leaf_Blight": {
+    "description": "Long, V-shaped lesions on leaves.",
+    "treatment": "Use resistant hybrids, crop rotation, and fungicides."
+  },
+  "Grape___Black_rot": {
+    "description": "Dark spots on leaves; fruit shrivels into black mummies.",
+    "treatment": "Prune infected parts. Apply fungicides (myclobutanil)."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "description": "Brown-black streaks on leaves and fruit.",
+    "treatment": "No effective cure. Remove infected vines."
+  },
+  "Grape___healthy": {
+    "description": "Healthy grape leaf.",
+    "treatment": "No treatment needed."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "description": "Small brown spots with yellow halos.",
+    "treatment": "Apply copper-based fungicides."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "description": "Yellow shoots, misshapen fruit, tree decline.",
+    "treatment": "No cure. Remove infected trees and control psyllids."
+  },
+  "Peach___Bacterial_spot": {
+    "description": "Water-soaked lesions on leaves and fruit.",
+    "treatment": "Use copper sprays. Resistant varieties."
+  },
+  "Peach___healthy": {
+    "description": "Healthy peach leaf.",
+    "treatment": "No treatment needed."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "description": "Dark spots on leaves and fruit.",
+    "treatment": "Use disease-free seed. Apply copper-based bactericides."
+  },
+  "Pepper,_bell___healthy": {
+    "description": "Healthy bell pepper leaf.",
+    "treatment": "No treatment needed."
+  },
+  "Potato___Early_blight": {
+    "description": "Dark concentric rings on leaves.",
+    "treatment": "Rotate crops. Apply chlorothalonil fungicides."
+  },
+  "Potato___healthy": {
+    "description": "Healthy potato leaf.",
+    "treatment": "No treatment needed."
+  },
+  "Potato___Late_blight": {
+    "description": "Caused by Phytophthora infestans; leads to plant collapse.",
+    "treatment": "Use certified disease-free seed potatoes. Apply copper-based fungicides."
+  },
+  "Raspberry___healthy": {
+    "description": "Healthy raspberry leaf.",
+    "treatment": "No treatment needed."
+  },
+  "Soybean___healthy": {
+    "description": "Healthy soybean leaf.",
+    "treatment": "No treatment needed."
+  },
+  "Squash___Powdery_mildew": {
+    "description": "White powdery coating on leaves.",
+    "treatment": "Apply sulfur or neem oil. Increase air circulation."
+  },
+  "Strawberry___healthy": {
+    "description": "Healthy strawberry leaf.",
+    "treatment": "No treatment needed."
+  },
+  "Strawberry___Leaf_scorch": {
+    "description": "Purple-brown spots on leaves.",
+    "treatment": "Remove infected leaves. Apply fungicides."
+  },
+  "Tomato___Bacterial_spot": {
+    "description": "Dark, greasy spots on leaves and fruit.",
+    "treatment": "Use disease-free seed. Copper-based sprays."
+  },
+  "Tomato___Early_blight": {
+    "description": "Dark concentric rings on lower leaves.",
+    "treatment": "Mulch to reduce soil splash. Apply chlorothalonil."
+  },
+  "Tomato___healthy": {
+    "description": "Healthy tomato leaf.",
+    "treatment": "No treatment needed."
+  },
+  "Tomato___Late_blight": {
+    "description": "Large, dark, water-soaked lesions on leaves and fruit.",
+    "treatment": "Remove infected plants. Apply copper-based fungicides."
+  },
+  "Tomato___Leaf_Mold": {
+    "description": "Yellow spots on upper surface; purple mold underneath.",
+    "treatment": "Increase air circulation. Apply fungicides."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "description": "Small dark spots with light centers.",
+    "treatment": "Remove lower leaves. Apply chlorothalonil."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "description": "Tiny mites cause stippling and webbing.",
+    "treatment": "Use insecticidal soap or horticultural oil."
+  },
+  "Tomato___Target_Spot": {
+    "description": "Dark lesions with concentric rings.",
+    "treatment": "Apply fungicides like chlorothalonil."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "description": "Mottled yellow-green leaves, stunted growth.",
+    "treatment": "Use virus-free seeds. Remove infected plants."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "description": "Upward curling, yellowing leaves.",
+    "treatment": "Control whiteflies. Use resistant varieties."
+  }
+}

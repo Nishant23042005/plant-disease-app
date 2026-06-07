@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+env/
+backend/venv/
+frontend/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Uploads and database
+uploads/
+instance/
+*.db
+*.sqlite
+
+# IDE files
+.vscode/
+.idea/
+
+# Model files (optional – if too large, use Git LFS or separate storage)
+# *.h5
